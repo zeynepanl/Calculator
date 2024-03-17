@@ -1,0 +1,11 @@
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\bin\Debug\Uygulama2.exe.config
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\bin\Debug\Uygulama2.exe
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\bin\Debug\Uygulama2.pdb
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csproj.AssemblyReference.cache
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.Form1.resources
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.Properties.Resources.resources
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csproj.GenerateResource.cache
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.exe
+C:\Users\Bahadır\c# project\Uygulama2\Uygulama2\obj\Debug\Uygulama2.pdb
